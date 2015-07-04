@@ -1,0 +1,18 @@
+@relation sparse
+@attribute Att1 numeric
+@attribute Att2 numeric
+@attribute Att3 numeric
+@attribute Att4 numeric
+@attribute Att5 numeric
+@attribute Att6 numeric
+@attribute Att7 numeric
+@attribute Att8 numeric
+@attribute Att9 numeric
+@attribute Att10 numeric
+@attribute Class numeric
+
+@data
+1,1,0,1,0,0,0,0,0,1,1
+0,0,0,0,0,0,1,0,1,1,-1
+1,1,1,1,1,1,1,1,1,1,1
+0,0,0,0,0,0,0,0,1,1,-1

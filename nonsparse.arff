@@ -1,0 +1,19 @@
+@relation sparse-weka.filters.unsupervised.instance.NonSparseToSparse
+
+@attribute Att1 numeric
+@attribute Att2 numeric
+@attribute Att3 numeric
+@attribute Att4 numeric
+@attribute Att5 numeric
+@attribute Att6 numeric
+@attribute Att7 numeric
+@attribute Att8 numeric
+@attribute Att9 numeric
+@attribute Att10 numeric
+@attribute Class numeric
+
+@data
+{0 1,1 1,3 1,9 1,10 1}
+{6 1,8 1,9 1,10 -1}
+{0 1,1 1,2 1,3 1,4 1,5 1,6 1,7 1,8 1,9 1,10 1}
+{8 1,9 1,10 -1}

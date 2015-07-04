@@ -1,0 +1,17 @@
+@relation house-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0
+
+@attribute houseSize numeric
+@attribute lotSize numeric
+@attribute bedrooms numeric
+@attribute granite numeric
+@attribute bathroom numeric
+@attribute sellingPrice numeric
+
+@data
+0.725437,0,1,0,0,205000
+0.571507,0.080533,0.5,1,1,224900
+1,0.088772,0.5,0,1,197900
+0.107533,0.459595,0,1,0,189900
+0,0.03786,0,0,1,195000
+0.729258,1,1,1,1,325000
+0.427402,0.016107,0.5,0,1,230000
